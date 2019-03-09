@@ -15,7 +15,7 @@ See the attached data file.
 
 
 
-I have attached an example of the chart we would like you to create. Please create a similar chart for the LTV of the February cohort. You can use all the data in the data set (so 2/1/2015 through 3/30/2016 - 13 month time horizon after the end of 2/2015).
+Create a similar chart (attached for reference) for the LTV of the February cohort. You can use all the data in the data set (so 2/1/2015 through 3/30/2016 - 13 month time horizon after the end of 2/2015).
 
 - the cohort LTV is segmented by customer type
 
